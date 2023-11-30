@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.img-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.img-div {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  margin-bottom: 2rem;
+}
